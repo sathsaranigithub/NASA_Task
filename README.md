@@ -19,7 +19,7 @@ Make sure the following are installed on your system:
 
 ## 🧩 Step 2: Create Database
 Open SQL Server Management Studio and run the following SQL script:
-<img width="462" height="361" alt="image" src="https://github.com/user-attachments/assets/336fc274-15ef-4edc-9656-d97f6bdb2248" />
+<img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/336fc274-15ef-4edc-9656-d97f6bdb2248" />
 
 ## 🧩Step 3: Update Connection String & Add NASA Api key
 Open appsettings.json and update the SQL Server connection string:
