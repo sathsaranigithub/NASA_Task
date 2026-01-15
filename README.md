@@ -29,7 +29,7 @@ Open appsettings.json and update the SQL Server connection string:
 
 ## ▶️ Step 4: Run the Application
 example output:
-<img width="1920" height="1080" alt="Screenshot (837)" src="https://github.com/user-attachments/assets/b59dec9c-80ef-4f2e-a3ec-df5a855a549e" />
+<img width="960" height="540" alt="Screenshot (837)" src="https://github.com/user-attachments/assets/b59dec9c-80ef-4f2e-a3ec-df5a855a549e" />
 
 # 🚀 Instructions for Setting NASA API Key
 
