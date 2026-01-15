@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Task\\NasaApodGallery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|e:\\task\\nasaapodgallery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|e:\\task\\nasaapodgallery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|e:\\task\\nasaapodgallery\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|e:\\task\\nasaapodgallery\\services\\nasaapodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|solutionrelative:services\\nasaapodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|e:\\task\\nasaapodgallery\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|e:\\task\\nasaapodgallery\\models\\apoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|solutionrelative:models\\apoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|e:\\task\\nasaapodgallery\\data\\apodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|solutionrelative:data\\apodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|e:\\task\\nasaapodgallery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|e:\\task\\nasaapodgallery\\controllers\\apodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1886218-85E4-4FBC-B120-3766261CDFBF}|NasaApodGallery.csproj|solutionrelative:controllers\\apodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApodDto.cs",
+              "DocumentMoniker": "E:\\Task\\NasaApodGallery\\Models\\ApodDto.cs",
+              "RelativeDocumentMoniker": "Models\\ApodDto.cs",
+              "ToolTip": "E:\\Task\\NasaApodGallery\\Models\\ApodDto.cs",
+              "RelativeToolTip": "Models\\ApodDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:51:24.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Task\\NasaApodGallery\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Task\\NasaApodGallery\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:17:58.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NasaApodService.cs",
+              "DocumentMoniker": "E:\\Task\\NasaApodGallery\\Services\\NasaApodService.cs",
+              "RelativeDocumentMoniker": "Services\\NasaApodService.cs",
+              "ToolTip": "E:\\Task\\NasaApodGallery\\Services\\NasaApodService.cs",
+              "RelativeToolTip": "Services\\NasaApodService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:53:21.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Task\\NasaApodGallery\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Task\\NasaApodGallery\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T20:30:48.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Task\\NasaApodGallery\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Task\\NasaApodGallery\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:56:35.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Task\\NasaApodGallery\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Task\\NasaApodGallery\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-14T18:49:20.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApodRepository.cs",
+              "DocumentMoniker": "E:\\Task\\NasaApodGallery\\Data\\ApodRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ApodRepository.cs",
+              "ToolTip": "E:\\Task\\NasaApodGallery\\Data\\ApodRepository.cs",
+              "RelativeToolTip": "Data\\ApodRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T20:17:38.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Task\\NasaApodGallery\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Task\\NasaApodGallery\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T20:28:18.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApodController.cs",
+              "DocumentMoniker": "E:\\Task\\NasaApodGallery\\Controllers\\ApodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApodController.cs",
+              "ToolTip": "E:\\Task\\NasaApodGallery\\Controllers\\ApodController.cs",
+              "RelativeToolTip": "Controllers\\ApodController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T20:23:53.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

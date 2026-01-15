@@ -1,0 +1,12 @@
+﻿@model List<NasaApodGallery.Models.ApodDto>
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+    @foreach (var item in Model)
+    {
+        <div style="width:300px;">
+            <img src="@item.url" style="width:100%; height:auto;" />
+            <h4>@item.title</h4>
+        </div>
+    }
+</div>
+
