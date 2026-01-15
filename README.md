@@ -31,3 +31,18 @@ Open appsettings.json and update the SQL Server connection string:
 example output:
 <img width="1920" height="1080" alt="Screenshot (837)" src="https://github.com/user-attachments/assets/b59dec9c-80ef-4f2e-a3ec-df5a855a549e" />
 
+# 🚀 Instructions for Setting NASA API Key
+
+## 🧩 Step 1: Get API Key
+1.Visit: https://api.nasa.gov
+
+2.Click Generate API Key
+
+3.Register with your email
+
+4.Copy the generated API key
+
+## 🧩 Step 2: Add API Key to Project
+Open appsettings.json and add:
+ Replace ADD_APIkey with your actual NASA api key
+<img width="1166" height="173" alt="image" src="https://github.com/user-attachments/assets/b5839feb-938f-438c-845f-389f2ecc337c" />
