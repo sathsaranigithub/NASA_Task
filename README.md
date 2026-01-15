@@ -48,6 +48,7 @@ Open appsettings.json and add:
  Replace ADD_APIkey with your actual NASA api key
 <img width="1166" height="173" alt="image" src="https://github.com/user-attachments/assets/b5839feb-938f-438c-845f-389f2ecc337c" />
 TEST POSTMAN :
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/2a3b1c0d-fb0a-4359-8e86-6b969a21a685" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/aa5212be-8def-4658-970b-e2e586cb7008" />
+
 
 
